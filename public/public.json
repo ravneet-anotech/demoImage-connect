@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "phone": "+1-555-123-4567",
+      "city": "New York"
+    },
+    {
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "phone": "+1-555-234-5678",
+      "city": "Los Angeles"
+    },
+    {
+      "name": "Carol Martinez",
+      "email": "carol.martinez@example.com",
+      "phone": "+1-555-345-6789",
+      "city": "Chicago"
+    },
+    {
+      "name": "David Lee",
+      "email": "david.lee@example.com",
+      "phone": "+1-555-456-7890",
+      "city": "Houston"
+    },
+    {
+      "name": "Emma Davis",
+      "email": "emma.davis@example.com",
+      "phone": "+1-555-567-8901",
+      "city": "Phoenix"
+    },
+    {
+      "name": "Frank Brown",
+      "email": "frank.brown@example.com",
+      "phone": "+1-555-678-9012",
+      "city": "Philadelphia"
+    },
+    {
+      "name": "Grace Wilson",
+      "email": "grace.wilson@example.com",
+      "phone": "+1-555-789-0123",
+      "city": "San Antonio"
+    },
+    {
+      "name": "Henry Taylor",
+      "email": "henry.taylor@example.com",
+      "phone": "+1-555-890-1234",
+      "city": "San Diego"
+    },
+    {
+      "name": "Ivy Thomas",
+      "email": "ivy.thomas@example.com",
+      "phone": "+1-555-901-2345",
+      "city": "Dallas"
+    },
+    {
+      "name": "Jack White",
+      "email": "jack.white@example.com",
+      "phone": "+1-555-012-3456",
+      "city": "San Jose"
+    }
+  ]
+  
