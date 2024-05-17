@@ -31,6 +31,8 @@ function ImageApi() {
           ))}
         </div>
       )}
+            <p>Mondir chanda</p>
+
     </div>
   );
 }
